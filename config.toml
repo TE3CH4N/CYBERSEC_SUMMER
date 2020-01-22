@@ -4,6 +4,11 @@ title = "Personal Portfolio | 13206469"
 theme = "hugo-ink-master"
 paginate = 5
 
+
+
+
+
+
 pygmentsstyle = "vs"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
