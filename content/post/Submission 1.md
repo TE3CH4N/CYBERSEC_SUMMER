@@ -1,7 +1,7 @@
 ---
-title: "Sprint 1 Submission"
+title: "Reflection 1"
 date: 2019-01-25T02:01:58+05:30
-description: "This is the first sprint submission."
+description: "Reflection on the first sprint submission."
 
 ---
 

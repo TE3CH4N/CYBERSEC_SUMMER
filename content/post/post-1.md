@@ -1,13 +1,14 @@
 ---
-title: "Test Sprint 1 Submission"
+title: "Introduction"
 date: 2019-01-25T02:01:58+05:30
-description: "This is the first sprint submission."
+description: "Introduction to the first sprint submission."
 
 ---
 
 Things to include in motivation intro:
 - SS of pre form before summer studio started (what I wanted out of tutors and etc)
 - SS of written notes of what i want to get out of Summer Studio Cyber Security
+- Learning Contract
 
 
 SLO's:
