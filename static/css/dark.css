@@ -45,11 +45,13 @@ a:hover {
 .post-tags .tags a {
     border: 1px solid #ddd;
 	color: #ddd;
+	text-align: right;
 }
 
 .site-title a {
 	color: #ddd;
 	text-decoration: none !important;
+	font-size: 30px;
 }
 
 .header nav,

@@ -29,13 +29,9 @@ pygmentscodefencesguesssyntax = true
 	# customJS = ["js/custom.js", "js/custom1.js"]  # Custom JS scripts.
 
 # Nav.
-[[menu.main]]
-name = "Home"
-url = "/"
-weight = 1
 
 [[menu.main]]
-name = "All posts"
+name = "Home"
 url = "/post"
 weight = 2
 
