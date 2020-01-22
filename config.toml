@@ -16,7 +16,7 @@ pygmentscodefencesguesssyntax = true
 	subtitle = "Dylan Tchan | 13206469"
 
 	# Optional 64x64 avatar image.
-	avatar = "https://image.freepik.com/free-vector/young-man-head-with-beard-avatar-character_24877-36786.jpg"
+	avatar = "https://teechan.me/images/yanan.jpg"
 
 	# Content types to disable Disqus on.
 	disableDisqusTypes = ["page"]
