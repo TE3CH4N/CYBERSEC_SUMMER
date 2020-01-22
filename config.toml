@@ -16,7 +16,7 @@ pygmentscodefencesguesssyntax = true
 	subtitle = "Dylan Tchan | 13206469"
 
 	# Optional 64x64 avatar image.
-	avatar = "https://teechan.me/images/yanan.jpg"
+	avatar = "/images/avatar.jpg"
 
 	# Content types to disable Disqus on.
 	disableDisqusTypes = ["page"]
@@ -49,13 +49,14 @@ weight = 4
 name = "Github"
 icon = "github"
 url = "https://github.com/TE3CH4N"
+Stroke = 40
 
 [[params.social]]
 name = "Github"
-icon = "github"
+icon = "briefcase"
 url = "https://www.linkedin.com/in/dylantchan/"
 
 [[params.social]]
 name = "RSS"
-icon = "rss"
-url = "https://soundcloud.com/teechand/popular-tracks"
+icon = "cloud"
+url = "https://soundcloud.com/teechand/tracks"
