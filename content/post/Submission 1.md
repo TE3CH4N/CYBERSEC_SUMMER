@@ -1,3 +1,12 @@
+---
+title: "Sprint 1 Submission"
+date: 2019-01-25T02:01:58+05:30
+description: "This is the first sprint submission."
+
+---
+
+
+
 # Submission 1:
 
 ## Things to include in motivation intro:
@@ -21,15 +30,15 @@ Upon successful completion of this subject students should be able to:
 - Join MS Teams
 - Open Wiki tab under Cyber Security Summer Studio and follow instructions under Week 1
 - Github education pack —> [Namecheap.com](http://namecheap.com) —> link Github with namecheap domain —> Install Hugo and start creating a site with one of Hugo's Themes —> Creating markdown files under quickstart/content/post folder, which will be used to display your sprint submissions (personal portfolio) as a static site —> Look up on how to upload files onto GitHub manually because i had troubles in CLI (images down below) —> Login to Netlify with GitHub and change dns servers to custom on namecheap dashboard to point to Netlify dns' (instructions: [https://skilstak.io/changing-dns-on-namecheap-to-point-to-netlify/](https://skilstak.io/changing-dns-on-namecheap-to-point-to-netlify/)) —> Deploy server (learn how to gain remote access/push + pull)
-- 
+-
 
-![Submission%201/Untitled.png](Submission%201/Untitled.png)
+![Screenshot4.png](/images/screenshot4.png)
 
 keep having "error: 'themes/' does not have a commit checked out fatal: adding files failed" issue when trying to upload local repos to GitHub
 
-![Submission%201/Untitled%201.png](Submission%201/Untitled%201.png)
+![Screenshot1.png](/images/screenshot1.png)
 
-![Submission%201/Untitled%202.png](Submission%201/Untitled%202.png)
+![Screenshot2.png](/images/screenshot2.png)
 
 Add files to stage —> Commit the files —> push the file onto online repo
 
@@ -37,4 +46,4 @@ Another Problem I had was deploying site on netlify was it wans't the right hugo
 
 - I fixed this by checking the version of HUGO on my terminal (version 0.62.2) and then i matched it on Netlify under Site Settings/build & deploy/Environment
 
-![Submission%201/Untitled%203.png](Submission%201/Untitled%203.png)
+![Screenshot3.png](/images/screenshot3.png)

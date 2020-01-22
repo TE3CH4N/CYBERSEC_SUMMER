@@ -7,8 +7,6 @@ paginate = 5
 
 
 
-
-
 pygmentsstyle = "vs"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
