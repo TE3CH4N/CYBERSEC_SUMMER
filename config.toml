@@ -6,7 +6,6 @@ paginate = 5
 
 
 
-
 pygmentsstyle = "vs"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
@@ -23,7 +22,7 @@ pygmentscodefencesguesssyntax = true
 
 	featherIconsCDN = true
 
-	mode = "auto" # "dark" or "auto"
+	mode = "dark" # "dark" or "auto"
 	# customCSS = "css/custom.css"  # Custom CSS applied to default styles.
 	# customDarkCSS = "css/custom-dark.css"  # Custom styles applied to dark mode css.
 	# customJS = ["js/custom.js", "js/custom1.js"]  # Custom JS scripts.
@@ -41,8 +40,8 @@ url = "/about"
 weight = 3
 
 [[menu.main]]
-name = "Tags"
-url = "/tags"
+name = "Posts"
+url = "/post"
 weight = 4
 
 [[params.social]]

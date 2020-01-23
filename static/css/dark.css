@@ -43,7 +43,7 @@ a:hover {
 }
 
 .post-tags .tags a {
-    border: 1px solid #ddd;
+    border: 5px solid #ddd;
 	color: #ddd;
 	text-align: right;
 }
