@@ -52,11 +52,18 @@ a:hover {
 	color: #ddd;
 	text-decoration: none !important;
 	font-size: 30px;
+	margin: 0 auto;
+	padding-left:: 100px;
+
+
+
 }
 
 .header nav,
 .footer {
 	border-color: #333;
+	padding-left:: 100px;
+
 }
 
 .highlight {

@@ -1,14 +1,19 @@
 ---
-title: "Dylan Tchan"
-
-
-description: "Uh oh Stinky"
+title: "Hi there!"
 
 
 type: "page"
 ---
 
-This is my personal portfolio for Summer Studio Cyber Security
 
 
-![Screenshot4.png](/images/monkey.png)
+
+
+## I'm Dylan
+
+### I'm into making Lofi beats and aesthetically pleasing things
+
+
+
+
+![Screenshot4.png](/images/neon3.jpg)

@@ -2,7 +2,7 @@ baseURL = "/"
 languageCode = "en-us"
 title = "Personal Portfolio"
 theme = "hugo-ink-master"
-paginate = 5
+paginate = 10
 
 
 
@@ -41,7 +41,7 @@ weight = 3
 
 [[menu.main]]
 name = "Blog"
-url = "/post"
+url = "/mainpage"
 weight = 4
 
 [[params.social]]

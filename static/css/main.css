@@ -17,17 +17,22 @@
 }
 
 body {
-    font-family: "Inter", sans-serif;
-    font-weight: 400;
+    font-family: "Courier", courier-new;
+    font-weight: 200;
     color: #333;
     line-height: 1.8em;
     font-size: 17px;
+    text-align: center;
+
+
 }
 
 a {
     color: #3700ff;
     text-decoration: none;
     word-break: break-word;
+
+
 }
     a:hover {
         border-bottom: 2px solid #3700ff;
@@ -59,9 +64,10 @@ hr {
 }
 
 img {
-    margin: 10px auto 10px auto;
+
     max-width: 100%;
     display: block;
+    align-left: 50%;
 }
 
 a img {
@@ -108,6 +114,7 @@ h1, h2, h3, h4, h5, h6 {
     font-weight: 500;
     line-height: 1.3em;
     margin: 30px 0 20px 0;
+
 }
 
 h1 {
@@ -147,7 +154,7 @@ h6 {
 }
 
 ul {
-    padding-left: 15px;
+    padding-left: 10px;
 }
 
 ul.flat {
@@ -205,29 +212,38 @@ ul {
 
 .header {
     margin-bottom: 20px;
-    padding-bottom: 20px;
+    padding-bottom: 50px;
+
 }
 
 .header .avatar {
     float: left;
+    padding-top: 20px;
     margin: -25px 20px 0 0;
+
 }
 .header .avatar img {
-    width: 64px;
-    height: 64px;
+    width: 70px;
+    height: 70px;
     overflow: hidden;
     border-radius: 100%;
+
+
+
 }
 .header .site-title {
     margin: 0 0 10px 0;
     line-height: 0.2em;
+
+
 }
     .site-title a {
         color: #333;
         text-decoration: none !important;
+
     }
     .site-title a:hover {
-        border-bottom-width: 3px;
+        border-bottom-width: 5px;
     }
 
 .header .site-description {
@@ -236,14 +252,18 @@ ul {
 }
 
 .header nav {
-    border-top: 1px solid #eee;
-    padding-top: 15px;
+    border-top: 5px solid #eee;
+
+
+    padding-top: 10px;
+
 }
 
 .header nav ul,
 .header nav li {
     margin: 0;
-    padding: 0;
+    padding-left: 3px;
+
 }
 
 .header nav li {
@@ -276,11 +296,13 @@ ul {
     text-transform: uppercase;
     color: #999;
     margin-bottom: 20px;
+
     letter-spacing: 1px;
+
 }
 
 .recent-posts .posts .post {
-    margin-bottom: 45px;
+    margin-bottom: 20px;
 }
 
 .post-header {
@@ -297,7 +319,7 @@ ul {
     line-height: 0.45em;
     font-size: 3em;
     display: block;
-    margin-bottom: 20px;
+    margin-bottom: 5px;
 }
 .post-header .meta .date .rest {
     display: block;
@@ -305,10 +327,14 @@ ul {
 }
 .post-header h1.title {
     margin: -10px 0 0 0;
+    padding-top: 10px;
+    padding-left: 290px;
+    text-align: center;
 }
 
 .post .title.small {
     margin: 0 0 10px 0;
+    padding-left: 300px;
 }
 .post .post-header {
     margin-bottom: 30px;
@@ -418,6 +444,7 @@ ul {
 
     .header .nav.social li {
         margin: 0;
+
     }
     .header .nav li {
         margin: 0 10px 0 0;
