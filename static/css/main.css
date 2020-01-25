@@ -17,7 +17,7 @@
 }
 
 body {
-    font-family: "Courier", courier-new;
+    font-family: "Lucida Console", Monaco, monospace;
     font-weight: 200;
     color: #333;
     line-height: 1.8em;
@@ -154,7 +154,7 @@ h6 {
 }
 
 ul {
-    padding-left: 10px;
+  padding-left: 15px;
 }
 
 ul.flat {
@@ -207,7 +207,7 @@ ul {
 
 .container {
     max-width: 800px;
-    margin-top: 50px;
+    margin-top: 80px;
 }
 
 .header {
@@ -218,23 +218,19 @@ ul {
 
 .header .avatar {
     float: left;
-    padding-top: 20px;
-    margin: -25px 20px 0 0;
+    margin: 0 20px 0 0;
 
 }
 .header .avatar img {
-    width: 70px;
-    height: 70px;
+    width: 80px;
+    height: 80px;
     overflow: hidden;
     border-radius: 100%;
 
-
-
 }
 .header .site-title {
-    margin: 0 0 10px 0;
-    line-height: 0.2em;
-
+  margin: 0 0 10px 0;
+  line-height: 0.2em;
 
 }
     .site-title a {
@@ -243,7 +239,7 @@ ul {
 
     }
     .site-title a:hover {
-        border-bottom-width: 5px;
+        border-bottom-width: 3px;
     }
 
 .header .site-description {
@@ -252,17 +248,16 @@ ul {
 }
 
 .header nav {
-    border-top: 5px solid #eee;
-
-
-    padding-top: 10px;
+    border-top: 10px solid #eee;
+    padding-top: 1px;
+    padding-right: 355px;
 
 }
 
 .header nav ul,
 .header nav li {
     margin: 0;
-    padding-left: 3px;
+    padding: 0;
 
 }
 
@@ -270,12 +265,16 @@ ul {
     display: inline-block;
     list-style: none;
     margin: 0 30px 0 0;
+    padding-top: 15px;
+
 }
     .header nav.social a {
         color: #333;
+
     }
     .header nav.social a:hover {
         color: #3700ff;
+
     }
 
 .header .site-description nav {
@@ -283,11 +282,13 @@ ul {
     padding: 0;
     border: none;
     min-width: 50px;
-    margin-left: 15px;
+    margin-left: 60px;
+
 }
 
 .header .site-description nav ul svg {
-    max-height: 15px;
+    max-height: 50px;
+    padding-top: 5px;
 }
 
 .section .section-header {
@@ -334,10 +335,14 @@ ul {
 
 .post .title.small {
     margin: 0 0 10px 0;
-    padding-left: 300px;
+
 }
 .post .post-header {
-    margin-bottom: 30px;
+
+    padding-right: 100px;
+    text-align: center;
+
+
 }
 
 .post .draft-label {
@@ -359,11 +364,13 @@ ul {
     font-size: 0.85em;
     text-decoration: none;
     margin: 0 10px 0 0;
+
 }
 
 .list .posts .post-header .meta {
     margin-bottom: 0;
     margin-left: 5px;
+
 }
 
 .footer {
@@ -372,7 +379,7 @@ ul {
     color: #999;
     border-top: 1px solid #f4f4f4;
     margin-top: 40px;
-    padding: 15px 0;
+    padding: 15px;
 }
     .footer a {
         color: #666;
@@ -419,7 +426,7 @@ ul {
 
 @media (max-width: 900px) {
     body {
-        padding: 20px;
+        padding: 50px;
     }
 
     h1 {
@@ -444,6 +451,8 @@ ul {
 
     .header .nav.social li {
         margin: 0;
+
+
 
     }
     .header .nav li {

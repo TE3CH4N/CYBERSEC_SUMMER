@@ -6,7 +6,7 @@
     src: url("https://rsms.me/inter/font-files/Inter-Regular.woff2") format("woff2"),
          url("https://rsms.me/inter/font-files/Inter-Regular.woff") format("woff");
   }
-  
+
   @font-face {
     font-family: 'Inter';
     font-display: auto;
@@ -216,7 +216,7 @@ ul {
     width: 64px;
     height: 64px;
     overflow: hidden;
-    border-radius: 100%;
+    border-radius: 100]%;
 }
 .header .site-title {
     margin: 0 0 10px 0;
