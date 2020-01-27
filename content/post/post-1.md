@@ -3,14 +3,6 @@ title: "Week 1 Introduction"
 date: 2019-01-25T02:01:58+05:30
 description: "Introduction to the first sprint submission."
 ---
-##### An introduction with photo and statement of motivation to take the studio subject and objectives in taking the subject.
-##### What do you intend to achieve through the project, including learning goals and tasks to be completed.
-##### What will be your contribution to the group effort? What will you learn in that process? What will you produce? You may revise this in subsequent submissions.
-
-- SS of pre form before summer studio started (what I wanted out of tutors and etc)
-- SS of written notes of what i want to get out of Summer Studio Cyber Security
-- Learning Contract
-
 ***
 ### Career Goals
 ***
@@ -27,4 +19,4 @@ My main source of motivation was that I needed an some sort of project-based exp
 ***
 ### Group Contributions
 ***
-As briefly mentioned in my learning contract, I will try my best to utilise my creative skills to contribute to my group brainstorm sessions and to also utilise my strong communication skills to actively listen to every group members' contributions in order to avoid any unnecessary conflict. Furthermore, through group deliverables and by rotating group members every week, I certainly look forward to develop my public speaking skills and to also develop the ability to grasp certain concepts reasonably well, so that I am able to present and teach the topic to other students. 
+As briefly mentioned in my learning contract, I will try my best to utilise my creative skills to contribute to my group brainstorm sessions and to also utilise my strong communication skills to actively listen to every group members' contributions in order to avoid any unnecessary conflict. Furthermore, through group deliverables and by rotating group members every week, I certainly look forward to develop my public speaking skills and to also develop the ability to grasp certain concepts reasonably well, so that I am able to present and teach the topic to other students.
