@@ -1,20 +1,18 @@
 ---
-title: "Introduction 1"
+title: "Week 1 Introduction"
 date: 2019-01-25T02:01:58+05:30
 description: "Introduction to the first sprint submission."
 
 ---
 
-Things to include in motivation intro:
+
+## Things to include in motivation intro:
 - SS of pre form before summer studio started (what I wanted out of tutors and etc)
 - SS of written notes of what i want to get out of Summer Studio Cyber Security
 - Learning Contract
 
-
-SLO's:
-Upon successful completion of this subject students should be able to:
-1. Engage with stakeholders to identify a problem or scope a defined problem.
-2. Apply design and systems thinking to respond to a defined or newly identified problem.
-3. Apply technical skills to develop, model and/or evaluate designs.
-4. Demonstrate effective collaboration and communication skills.
-5. Conduct critical self, peer, and group review and performance evaluation.
+#### An introduction with photo and statement of motivation to take the studio subject and objectives in taking the subject.
+##### What do you intend to achieve through the project, including learning goals and tasks to be completed.
+##### What will be your contribution to the group effort? What will you learn in that process? What will you produce? You may revise this in subsequent submissions.
+![intross1.png](/images/intross1.png)
+![intross2.png](/images/intross2.png)

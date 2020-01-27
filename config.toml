@@ -52,11 +52,11 @@ url = "https://github.com/TE3CH4N"
 Stroke = 40
 
 [[params.social]]
-name = "Github"
+name = "Linkedin"
 icon = "briefcase"
 url = "https://www.linkedin.com/in/dylantchan/"
 
 [[params.social]]
-name = "RSS"
+name = "Soundcloud"
 icon = "cloud"
 url = "https://soundcloud.com/teechand/tracks"

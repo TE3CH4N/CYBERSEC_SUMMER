@@ -1,5 +1,5 @@
 ---
-title: "Hi there!"
+
 
 
 type: "page"
@@ -8,10 +8,24 @@ type: "page"
 
 
 
-
+# Hi There!
+***
+***
 ## I'm Dylan
-### I'm into producing Lofi beats
-### and aesthetically pleasing things
+***
+***
+##### I'm into producing Lofi beats
+***
+***
+##### I like aesthetically pleasing things
+***
+***
+##### Tekken enthusisast
+***
+***
+##### Beginner music producer
+***
+***
 
 
 

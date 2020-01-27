@@ -20,11 +20,9 @@ body {
     font-family: "Lucida Console", Monaco, monospace;
     font-weight: 200;
     color: #333;
-    line-height: 1.8em;
-    font-size: 17px;
-    text-align: center;
-
-
+    line-height: 1.5em;
+    font-size: 16px;
+    text-align: left;
 }
 
 a {
@@ -64,7 +62,7 @@ hr {
 }
 
 img {
-
+  margin: -15px 0 10px 0;
     max-width: 100%;
     display: block;
     align-left: 50%;
@@ -77,6 +75,7 @@ a img {
 figure {
     margin: 0;
     text-align: center;
+
 }
 
 fieldset {
@@ -94,14 +93,15 @@ blockquote {
     font-style: italic;
     font-size: 1.4rem;
     font-family: Georgia,bitstream charter,serif;
-    border-left: 3px solid;
+    border-left: 10px solid;
     border-color: #3700ff;
     padding-left: 20px;
+
 }
 
 blockquote cite {
     font-size: 70%;
-    opacity: .8;
+    opacity: 0.8;
 }
 
 blockquote em {
@@ -112,29 +112,40 @@ blockquote em {
 h1, h2, h3, h4, h5, h6 {
     color: #333;
     font-weight: 500;
-    line-height: 1.3em;
-    margin: 30px 0 20px 0;
+    line-height: 2em;
+
 
 }
 
 h1 {
-    font-size: 2.75rem;
+    font-size: 2.7rem;
+    text-align: center;
+    margin: 0 0 -20px 0;
+
+
 }
 
 h2 {
     font-size: 2rem;
+    margin: 10px 0 0 0;
+    text-align: center;
 }
 
 h3 {
     font-size: 1.6rem;
+
 }
 
 h4 {
     font-size: 1.2rem;
+
+
 }
 
 h5 {
     font-size: 1rem;
+    text-align: center;
+    margin: 10px 0 0 0;
 }
 
 h6 {
@@ -154,7 +165,7 @@ h6 {
 }
 
 ul {
-  padding-left: 15px;
+  padding-left: 50px;
 }
 
 ul.flat {
@@ -165,7 +176,8 @@ ul.flat {
 ul.flat li {
     display: block;
     list-style: none;
-    margin-left: 0;
+    text-align: center;
+
 }
 
 .prevent-collapse {
@@ -191,7 +203,7 @@ ul {
 .highlight pre {
     margin-bottom: 0;
     margin-top: 0;
-    padding: 20px;
+    padding: 50px;
     background-color: transparent !important;
 }
 
@@ -201,7 +213,7 @@ ul {
 }
 
 .wrapper {
-    max-width: 760px;
+    max-width: 780px;
     margin: 0 auto;
 }
 
@@ -230,27 +242,32 @@ ul {
 }
 .header .site-title {
   margin: 0 0 10px 0;
-  line-height: 0.2em;
+  line-height: 0.5em;
 
 }
     .site-title a {
         color: #333;
         text-decoration: none !important;
 
+
     }
     .site-title a:hover {
         border-bottom-width: 3px;
+
     }
 
 .header .site-description {
     display: flex;
     justify-content: space-between;
+
+
+
+
 }
 
 .header nav {
     border-top: 10px solid #eee;
-    padding-top: 1px;
-    padding-right: 355px;
+    padding-left: 100px;
 
 }
 
@@ -264,8 +281,9 @@ ul {
 .header nav li {
     display: inline-block;
     list-style: none;
-    margin: 0 30px 0 0;
-    padding-top: 15px;
+    margin: 0 30px -20px 0;
+    padding-top: 8px;
+
 
 }
     .header nav.social a {
@@ -281,14 +299,15 @@ ul {
     margin: 0;
     padding: 0;
     border: none;
-    min-width: 50px;
-    margin-left: 60px;
+
+
 
 }
 
 .header .site-description nav ul svg {
     max-height: 50px;
     padding-top: 5px;
+      margin: 0 0 -15px 0;
 }
 
 .section .section-header {
@@ -297,7 +316,6 @@ ul {
     text-transform: uppercase;
     color: #999;
     margin-bottom: 20px;
-
     letter-spacing: 1px;
 
 }
@@ -311,30 +329,36 @@ ul {
 }
 .post-header .meta .date {
     margin-right: 30px;
-    width: 64px;
+    width: 80px;
     text-align: center;
+
+
+
 }
 .post-header .meta .date .day {
     font-family: "Playfair Display", serif;
-    font-weight: 700;
-    line-height: 0.45em;
-    font-size: 3em;
+    font-weight: 500;
+    line-height: 0.80em;
+    font-size: 2em;
     display: block;
     margin-bottom: 5px;
 }
 .post-header .meta .date .rest {
     display: block;
     font-size: 0.75em;
+    text-align: center;
 }
 .post-header h1.title {
-    margin: -10px 0 0 0;
-    padding-top: 10px;
-    padding-left: 290px;
+    margin: -20px 0 20px -300px;
     text-align: center;
+    padding-left: 300px;
+
+
 }
 
 .post .title.small {
-    margin: 0 0 10px 0;
+    margin: 0 275px 10px 0;
+    padding-top: 3px;
 
 }
 .post .post-header {
@@ -360,7 +384,7 @@ ul {
     border-radius: 3px;
     padding: 0px 6px;
     color: #3700ff;
-    line-height: 20px;
+    line-height: 5em;
     font-size: 0.85em;
     text-decoration: none;
     margin: 0 10px 0 0;
@@ -374,7 +398,7 @@ ul {
 }
 
 .footer {
-    text-align: right;
+    text-align: left;
     font-size: 0.75em;
     color: #999;
     border-top: 1px solid #f4f4f4;
@@ -424,25 +448,25 @@ ul {
     text-align: right;
 }
 
-@media (max-width: 900px) {
+@media (max-width: 0) {
     body {
-        padding: 50px;
+        padding: 20px;
     }
 
     h1 {
-        font-size: 1.8rem;
+        font-size: 1rem;
     }
 
     h2 {
-        font-size: 1.6rem;
+        font-size: 0.6rem;
     }
 
     h3 {
-        font-size: 1.2rem;
+        font-size: 0.2rem;
     }
 
     h4 {
-        font-size: 1rem;
+        font-size: 0.1rem;
     }
 
     .container {
@@ -451,8 +475,6 @@ ul {
 
     .header .nav.social li {
         margin: 0;
-
-
 
     }
     .header .nav li {

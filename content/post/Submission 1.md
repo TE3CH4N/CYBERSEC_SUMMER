@@ -1,5 +1,5 @@
 ---
-title: "Reflection 1"
+title: "Week 1 Reflection "
 date: 2019-01-25T02:01:58+05:30
 description: "Reflection on the first sprint submission."
 
@@ -7,14 +7,9 @@ description: "Reflection on the first sprint submission."
 
 
 
-# Submission 1:
 
-## Things to include in motivation intro:
 
-- SS of pre form before summer studio started (what I wanted out of tutors and etc)
-- SS of written notes of what i want to get out of Summer Studio Cyber Security
-
-## SLO's:
+### SLO's to meet:
 
 Upon successful completion of this subject students should be able to:
 
@@ -24,13 +19,21 @@ Upon successful completion of this subject students should be able to:
 4. Demonstrate effective collaboration and communication skills.
 5. Conduct critical self, peer, and group review and performance evaluation.
 
-## List of steps that I followed (to create my first sprint submission):
+### Reflection:
+This week was stressful week as Summer studio had started right after my 9am Careers Management class, which obviously interrupted it. Thus, I informed my Careers Management (CMITP) tutor few weeks prior to the start of Summer Studio, so that within the hour of class CMITP, my group and I will have presentation priority, so that we will not miss anything crucial.
 
+When summer studio came about I was immediately confronted with an  abundance of "to-do" items.
+
+Concepts I had to be wary of when i joined the class:
 - Get familiar with the subject outline and its SLO's
 - Join MS Teams
 - Open Wiki tab under Cyber Security Summer Studio and follow instructions under Week 1
-- Github education pack —> [Namecheap.com](http://namecheap.com) —> link Github with namecheap domain —> Install Hugo and start creating a site with one of Hugo's Themes —> Creating markdown files under quickstart/content/post folder, which will be used to display your sprint submissions (personal portfolio) as a static site —> Look up on how to upload files onto GitHub manually because i had troubles in CLI (images down below) —> Login to Netlify with GitHub and change dns servers to custom on namecheap dashboard to point to Netlify dns' (instructions: [https://skilstak.io/changing-dns-on-namecheap-to-point-to-netlify/](https://skilstak.io/changing-dns-on-namecheap-to-point-to-netlify/)) —> Deploy server (learn how to gain remote access/push + pull)
--
+- Download Github education pack to enjoy all the content available for 12 months
+- Learn how Git and how repositories work (learn how to gain remote access/push + pull)
+- Learn about how Hugo server converts to HTML/CSS (external research) server
+- Do some external research about emerging cyber security issues in the real world
+
+Errors I managed to fix and what I learnt from them:
 
 ![Screenshot4.png](/images/screenshot4.png)
 
