@@ -18,8 +18,9 @@ Upon successful completion of this subject students should be able to:
 3. Apply technical skills to develop, model and/or evaluate designs.
 4. Demonstrate effective collaboration and communication skills.
 5. Conduct critical self, peer, and group review and performance evaluation.
-
+***
 ### Reflection:
+***
 This week was stressful week as Summer studio had started right after my 9am Careers Management class, which obviously interrupted it. Thus, I informed my Careers Management (CMITP) tutor few weeks prior to the start of Summer Studio, so that within the hour of class CMITP, my group and I will have presentation priority, so that we will not miss anything crucial.
 
 When summer studio came about I was immediately confronted with an  abundance of "to-do" items.
