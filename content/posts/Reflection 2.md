@@ -6,13 +6,13 @@ description: "Reflection on the first sprint submission."
 
 ***
 ***
-## Introduction
+### Introduction
 ***
 ***
 This is the 2nd week of Cyber Security Summer Studio
 ***
 ***
-## Weekly Summary
+### Weekly Summary
 ***
 ***
 #### Tuesday (28/01):
@@ -57,7 +57,7 @@ Proofread over team members' slides and practice before Thursday morning
 
 ***
 ***
-## Conclusion and goals for next week
+### Conclusion and goals for next week
 ***
 ***
 In summary,

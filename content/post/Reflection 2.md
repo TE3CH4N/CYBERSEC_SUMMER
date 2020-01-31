@@ -4,20 +4,14 @@ date: 2019-01-25T02:01:58+05:30
 description: "Reflection on the first sprint submission."
 ---
 
-***
-***
-## Introduction
-***
-***
+
+Introduction
 This is the 2nd week of Cyber Security Summer Studio
-***
-***
-### Weekly Summary
-***
-***
-#### Tuesday (28/01):
-***
-***
+
+#### Weekly Summary
+##### Tuesday (28/01):
+
+
 
 Today was the first day back...
 

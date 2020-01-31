@@ -5,7 +5,7 @@ description: "Reflection on the first sprint submission."
 ---
 ***
 ***
-## Reflective Statement:
+### Reflective Statement:
 ***
 ***
 This week was a stressful week as Summer studio had started right after my 9am Careers Management class, which obviously interrupted it. Thus, I informed my Careers Management (CMITP) tutor few weeks prior to the start of Summer Studio, so that within the hour of class CMITP, my group and I will have presentation priority, so that we will not miss anything crucial.
@@ -48,7 +48,7 @@ Furthermore, I believe that I have met **SLO 4 and 5** to a great extent this fi
 
 
 
-#### Here are a few **errors** I managed to fix + what I learnt from them:
+##### Here are a few **errors** I managed to fix + what I learnt from them:
 ***
 ***
 ![Screenshot1.png](/images/screenshot1.png)
