@@ -6,22 +6,21 @@ description: "Reflection on the first sprint submission."
 
 ***
 ***
-### Introduction
+#### Introduction
 ***
 ***
-This is the 2nd week of Cyber Security Summer Studio
+This is the 2nd week of Cyber Security Summer Studio.
+Talk about developing problem statement acquired from stakeholders: Patrick Kelso and Robert Mitchell.
 ***
 ***
-### Weekly Summary
+#### Weekly Summary
 ***
 ***
-#### Tuesday (28/01):
+##### Tuesday (28/01):
 ***
 ***
 
-Today was the first day back...
-
-Two stakeholders
+Today was the first day back and we were told that our tutors were bringing two stakeholders from the IT security industry, Patrick Kelso and Robert Mitchell. 
 
 Talk about problem in industry and proposed solution
 
@@ -39,7 +38,7 @@ Allocate roles on Trello
 
 ***
 ***
-#### Wednesday-Thursday (29/01-30/01):
+##### Wednesday-Thursday (29/01-30/01):
 ***
 ***
 
@@ -57,7 +56,7 @@ Proofread over team members' slides and practice before Thursday morning
 
 ***
 ***
-### Conclusion and goals for next week
+#### Conclusion and goals for next week
 ***
 ***
 In summary,
