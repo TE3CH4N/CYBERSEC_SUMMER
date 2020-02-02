@@ -15,3 +15,5 @@ type: "page"
 ***
 
 ![Screenshot4.png](/images/shibuya.jpg)
+![aesthetic1.gif](/images/aesthetic1.gif)
+![aesthetic1.gif](/images/aesthetic2.gif)
