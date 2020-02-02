@@ -22,12 +22,14 @@ Furthermore, a method called `Fuzzing` can help you proactively improve the secu
 ***
 ***
 #### Week 2: Pros & Cons
-*Note to self:* *Include a picture of things that went well vs things that didn't go well this week written in notebook*
+*To-do List:*
+![Untitled.png](/images/notebook.jpg)
 
 ***
 ***
 ###### Pros:
 - Plan to do list on notebook and document notes on notion
+- View notes [here:](https://www.notion.so/teechan/Submission-2-notes-d1c8d669faec4f2aa264e9a03ab76eea)
 - Engaged with other students and stakeholders
 - This included talking to Patrick Kelso, and asking him about his experience working in IT security, especially in the government funded hospital where he talked about limited funding, which really provoked one of my problem statements
 - This also includes talking with Robert and understanding that there any chances in the IT security field where UX/UI designers could thrive, and he suggested that many security products or technical content has difficulty providing a user-friendly layout for everyday users
