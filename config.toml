@@ -54,6 +54,12 @@ unsafe = true
     url = "homepage"
     weight = 5
 
+    [[menu.main]]
+      identifier = "Logs"
+      name = "Logs"
+      url = "logs"
+      weight = 5
+
 
 [params]
   version = "5.x"                                        # LoveIt theme version

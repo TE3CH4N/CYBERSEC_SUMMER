@@ -18,7 +18,7 @@ Here are a few concepts and tasks I had to be aware of during the first week of 
 - Open Wiki tab under Cyber Security Summer Studio to follow instructions under Week 1
 - Download Github education pack to enjoy all the content available for 12 months
 - Create a [Github](https://github.com/TE3CH4N/CYBERSEC_SUMMER) Repository
-- Have [notes](https://www.notion.so/Submission-1-a7f410f1c65547028ddf31ddfcb41712) ready so I can refer back to instructions and to keep track of what I am doing daily
+- Have [notes](https://drive.google.com/open?id=1U-HcKhgR0atwEkQOCnOss8WnAHb5Ow60) ready so I can refer back to instructions and to keep track of what I am doing daily
 - Learn how Git and how repositories work (learn how to gain remote access/push + pull)
 - Learn about how Hugo server converts to HTML/CSS (external research) server
 - Get your own domain name registered on NameCheap and start a static site which will contain all your sprints
