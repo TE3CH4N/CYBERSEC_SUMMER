@@ -14,7 +14,7 @@ This is the 3rd week of Cyber Security Summer Studio and I feel as if this week 
 ***
 
 #### Week 3: Pros & Cons
-*To-do List:*
+**To-do List:**
 1. Research our web exploit topic (Broken access control)
 2. Prepare a 6 minute presentation on the topic by Thursday
 3. Attempt more wargames/CTF's and maybe even start NATAs on [overthewire](www.overthewire.org)
@@ -75,20 +75,19 @@ Then, we decided to split the work off so we could continue it back home. I then
 ***
 ***
 ###### Thursday (06/02):
-We had our initial Thursday scrum meeting and another common issue that I found was that everyone still had procrastination trouble due to their own individual priorities and also we have been fun attempting wargame and CTF Challenges.
+We had our initial Thursday scrum meeting and another common issue that I found was that everyone still had procrastination trouble due to their own individual priorities, but was also due to we had so much fun attempting wargames and CTF Challenges that we got sidetracked.
 
 Today we had to present our chosen web exploit topic (Broken Access Control). It went really well, given the fact we stuck to our script and presented it clearly without having to speed up any parts, was quite the surprise as we only had 2 days to work on this presentation. Additionally, I did not hesitate to note down other students' presentation notes as a form of research as it would be very beneficial. Consequently, I found out that different attack methods are already devastating enough, but when you pair two or more attacks together to compromise a company, it becomes even more deadly and may cost the whole company's profits.
 ***
 ***
 ###### Friday + Weekend (07/02 - 09/02):
-Since the presentation deliverable is already over and there being no reflection submission due this week, I decided to only focus on completing the presentation deliverable for the careers subject alongside starting a new wargame on [overtheiwire][www.overthewire.org]. Initially, I have been slacking off as there was no reflection due this week, however I still found it motivating to document it anyway as it was better for the long term to look back upon, despite the fact that not much was accomplished these few days...
-
+Since the presentation deliverable is already over and there being no reflection submission due this week, I decided to only focus on completing the presentation deliverable for the careers subject alongside starting a new wargame on [overtheiwire][www.overthewire.org]. Initially, I have been slacking off a little bit as there was no reflection due this week, however, I still found it motivating to document it anyways, as it was better for the long term to look back and reflect upon, despite the fact that not much was accomplished these few days.
 ***
 ***
 #### Conclusion
 ***
 ***
-To summarise, alongside the presentation deliverable that was due on Thursday, the challenges that I have attempted, really helped me understand the basics of Linux and even further web exploit attacks and to mitigate against them.
+To summarise, alongside the presentation deliverable that was due on Thursday, the challenges that I have attempted, really helped me understand the basics of Linux and further understand web exploit attacks and to mitigate against them.
 
 Additionally, other student presentations have encouraged me to do some more research into their web exploit topic, to further learn and understand the severity of the attack and the need to why we need to mitigate against them. Moreover, the optional 1 on 1 session was as beneficial as last week because I needed to double check whether or not I was on track, find areas where I could further improve on and to further find some encouragement to help keep me motivated to document my tasks, challenges and sprint accomplishments :)
 
