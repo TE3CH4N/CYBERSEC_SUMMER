@@ -22,9 +22,9 @@ Thus, I navigated over to [tryhackme](https://tryhackme.com/) and began attempti
 **|OR|**
 
 You can manually visit these **links** here:
-1. [Basic Pentesting 1](www.teechan.me/logs/basic1/)
-2. [Vulnversity](www.teechan.me/logs/tryhackme-vulnerversity/)
-3. [Biohazard](www.teechan.me/logs/tryhackme-biohazard/)
+1. [Basic Pentesting 1](https://www.teechan.me/logs/basic-pentesting-1/)
+2. [Vulnversity](https://teechan.me/logs/tryhackme-vulnerversity/)
+3. [Biohazard](https://www.teechan.me/logs/tryhackme-biohazard/)
 
 ***
 ***
