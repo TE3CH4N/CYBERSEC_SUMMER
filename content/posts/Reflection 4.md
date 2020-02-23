@@ -59,7 +59,7 @@ You can manually visit these **links** here:
 ***
 ***
 
-###### Monday (03/02):
+###### Monday (10/02):
 ***
 ***
 I missed the initial scrum meeting as I had to attend the careers management class then rush over to the summer studio class. However, my classmates soon filled me in what our deliverable was for this week and explained how we are attempting to `boot2root` and start learning penetration testing skills.
@@ -78,7 +78,7 @@ Nevertheless, penetration testing is still extremely useful in detecting exploit
 
 ***
 ***
-###### Tuesday (04/02):
+###### Tuesday (11/02):
 ***
 ***
 Me and Hayden had met up again to focus on completing a simple virtual box called `Basic Pen testing 1.` Today was primarily focused on getting `root` access to the directory, which was one of the first tasks that needed to be completed. Thus, under Hayden's guidance and many walkthroughs later I had managed to get this working. Furthermore, I immediately had another go at the box but this time, logging every step, dead-end and accomplishment on the `Notion` note-taking app, as I work through the box.
@@ -91,7 +91,7 @@ At home, I decided to have a look at Yukari's (fellow student) recorded video of
 ![Screenshot4.png](/images/wakanda1.png)
 ***
 ***
-###### Wednesday (05/02):
+###### Wednesday (12/02):
 ***
 ***
 Today's focus was mainly on Vulnversity and getting used to Tryhackme's platform. I met up with fellow students and the teaching team today at our usual room for a drop-in session. I had several questions that I needed to ask regarding Vulnversity, and it turns out that I tend to skip lines when I read and did not remember to allow the `openvpn` service to run on my Kali Linux VM before attempting the task ***(please forgive me Jason <3)***. After fixing the annoying minor setback, I powered through learning how to effectively use `Nmap` and was quickly onto the next stages afterwards.
@@ -102,7 +102,7 @@ At home, I watched Max's video on how to setup `BurpSuite` (better late than nev
 
 ***
 ***
-###### Thursday (06/02):
+###### Thursday (13/02):
 Through our weekly Thursday scrum meeting, I have learnt that many of us had common problems with different strengths. One common problem that I found that was prevalent in all of us was the fact that we all needed some sort of motivation to make it easier to ***"make a start"***. However, when we were introduced to a demonstration by Jason and the teaching team, or even a simple guided walkthrough helped out a lot. This is because when we were thrown into the deep end to simply ***"gain root access"*** we struggled a little, despite our strengths.
 
 Furthermore, we continued working on our boxes for the rest of the day. I happened to check up on a Tyrone, who's also working on `Vulnversity` along with Anthony. Therefore I asked him whether or not he wants to work on a section of a `BurpSuite` task that we were both stuck on so we could help each other out (screenshot shown below). Additionally, I had another 1 on 1 session with Jason and Larry. Overall, they seem happy with my progress so far, however Jason still mentioned my logs and write-ups still need to be in-depth (showing `how` I get there instead of `what` I got). This is something that I definitely need to work on, especially when the final weeks are approaching fast.
@@ -111,7 +111,7 @@ Furthermore, we continued working on our boxes for the rest of the day. I happen
 
 ***
 ***
-###### Friday + Weekend (07/02 - 09/02):
+###### Friday + Weekend (14/02 - 16/02):
 I decided to focus on completing the `boot2root` deliverable and polishing up the reflection, in hopes of getting it finished before Sunday. Not only is that so Jason and the rest of teaching team can give me early feedback, it also leaves me some time to work on another short presentation deliverable that is due on the following Monday for the careers subject (mentioned in week 1).
 
 Although me and Tyrone (fellow student) did not completely finish our box `Biohazard` for this week due to certain obstacles which halted our progression, we are still very keen to complete by sometime next week after we have done some in-depth research about certain tools. This is because without in-depth research and without running certain questions by the teaching team, we cannot progress, as we would spend countless hours trying to figure out which appropriate techniques to use. Whereas in this case, if we have asked the tutors in the first place, especially about which sites are a 'good read' to discover more about different base encodings and ciphers, then a lot more progress would be made.
