@@ -103,7 +103,7 @@ We were first introduced to two guest speakers (Pieter Westein and Nathan Jones)
 ***
 Later that day, we were told to attempt Deloitte's own box. It presented a variety of different medium and approach than what we were used to. Since it has a Git repository, we were scrambling away at what ways we could copy/clone that directory locally so we can access it. The box at first was immediately intimidating as I was not used to this format. To be fair I was just worried that everyone else was using `Netdiscover` and I starting off with `Nmap` which did concern me a little initially. However, with the guidance from the guest speakers and fellow students, we later decided a plan of action from the given hint that would slowly eat into our time. Despite the fact that not much progress was made due to time constraints, I still learnt a lot in terms of how to effectively 'search' for exploits and how to execute them and also how to plan a better course of action if I face a similar intensive task in the future.
 
-![Screenshot4.png](/images/delphotos.png)
+![Screenshot4.png](/images/delphotos.jpeg)
 
 Through our weekly Thursday scrum meeting, I have learnt that many of us still share common problems with differing strengths. One common problem that I found that was prevalent in all of us was the fact that we all loathed the idea of `enumerating` and how tiresome it can be to do in-depth research into a single topic that we did not understand. However, we all shared a common perseverance mindset, even when we struggled, despite all the hints that we have been given.
 
