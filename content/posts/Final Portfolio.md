@@ -49,7 +49,7 @@ Through their perspective and along with my in-depth research, I have found a co
 ***
 `The most overlooked element to any malicious cyber risk is human error. It contributes to most of a company's data breaches. In a security context, human error means unintentional actions or the lack of action, which when cause, spread or allow a security breach to take place.`
 ***
-The problem with our 21st century is that business of emerging technology, along with the exponential expansion of technology shifts too fast. Consequently, many companies choose to utilise new and emerging technology, which prefers automation over manual labour. This also results in the company neglecting to train new employees on these new machines, especially when it comes to educating non-technical employees regarding information security. The lack of awareness and the negligent environment that these new employees are brought up upon, will highly likely influence poor skill-based and decision-based errors in the future, which will rapidly increase the company's vulnerability to the next cyber threat in return.
+The problem with our 21st century is the business of emerging technology, along with the exponential expansion of technology, is that it shifts too fast. Consequently, many companies choose to utilise new and emerging technology, which prefers automation over manual labour. This also results in the company neglecting to train new employees on these new machines, especially when it comes to educating non-technical employees regarding information security. The lack of awareness and the negligent environment that these new employees are brought up upon, will highly likely influence poor skill-based and decision-based errors in the future, which will rapidly increase the company's vulnerability to the next cyber threat in return.
 
 Thus, throughout the studio, by successfully achieving root access to several vulnerable virtual machines, I have discovered that it is definitely possible to go from an insecure website (whether it would be an outdated server or unpatched system) to acquiring root/admin access of the machine. Moreover, the fact that certain exploits are very easy to look online (especially on [Exploitdb](https://www.exploit-db.com/)), makes the cyber risk factor even more dangerous and should serve as a sign of precaution to many companies to constantly update and patch their software after its release to avoid any unnecessary cyber hazards.
 
@@ -61,7 +61,7 @@ Furthermore, another vital precaution that companies should be aware of is that 
 ***
 This was another difficult subject learning outcome to thoroughly describe as `applying design thinking` was a continuous process throughout the whole studio. Think of it as the continuous evaluation process of a project, which is demonstrated by a Gantt Chart.
 
-Initially, I also struggled with this learning outcome as I had limited knowledge about penetration testing and barely any Linux skillsets. However, with the constant feedback from the teaching team and their ongoing support, I was able to effectively apply design thinking when we were challenged with many virtual boxes. Every week, we were challenged with different boxes from different sites like [TryHackme](https://tryhackme.com) and [HacktheBox](https://www.hackthebox.eu/). Likewise, we also learnt basic Linux skills through [PicoCTF](https://picoctf.com/) and [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/). Evidence for skillset development can be found [here](https://teechan.me/logs/).
+Initially, I also struggled with this learning outcome as I had limited knowledge about penetration testing and barely had any Linux skillsets. However, with the constant feedback from the teaching team and their ongoing support, I was able to effectively apply design thinking when we were challenged with many virtual boxes. Every week, we were challenged with different boxes from different sites like [TryHackme](https://tryhackme.com) and [HacktheBox](https://www.hackthebox.eu/). Likewise, we also learnt basic Linux skills through [PicoCTF](https://picoctf.com/) and [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/). Evidence for this particular skillset development can be found [here](https://teechan.me/logs/).
 
 I have realised that the more practice I have at Pen-Testing these vulnerable machines (that were meant to replicate past real world vulnerabilities), the more I realise the severity of a companies's vulnerability, especially when they are not being diligent enough to update and patch their systems. Thus, prompting me to effectively apply design thinking to avoid these potential security hazards. Furthermore, the teaching team has also enlightened me on a general overview of how a basic web penetration testing methodology should be structured, and encouraged me to follow that method. (refer to screenshot below):
 
@@ -79,7 +79,7 @@ Although Jason (fellow tutor) has shortened the whole pen-testing methodology do
     - Find potential exploit/s
     - Research about those potential exploit/s
     - Start testing each exploit and techniques through trial and error
-    - Repeat ideation if necessary or until you find the right exploit
+    - Repeat the ideation process if necessary or until you find the right exploit
 
 3. Escalation:
     - Progress further into the box by implementing successful techniques that emphasises your goal
@@ -97,7 +97,8 @@ Thus, by applying this simple yet effective methodology, I was able to apply cri
 Instead of thoroughly describing the development process for my technical skillset throughout the studio, which I have already [documented](https://teechan.me/posts/) every week, I have decided that it will much easier if I list out the main technical skills I have developed every week.
 ***
 - Week 1:
-    - First week was not really cybersecurity focused, as we were told to understand the basics of how to setup a static site:
+    - First week was not really cyber security focused, as we were told to understand the basics of how to setup a static site:
+
     ![Screenshot4.png](/portfolio/week1.png)
     - Understanding the basics of `Git` and how Github Repositories work (learn how to gain remote access/push + pull)
     - Struggled at first, but with the help of fellow students and tutors, I managed to pull through
@@ -106,6 +107,7 @@ Instead of thoroughly describing the development process for my technical skills
     - Learnt about **technical** scanning tools NMAP (Network Mapper), which is an intensive port scanning tool
     - Produced a presentation about NMAP with Hayden and Nik using Canva, which can be viewed [here](https://www.canva.com/design/DADyQuNdQao/obR8xGLrPcD9WVdvrNicbg/view?utm_content=DADyQuNdQao&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton).
     - Learnt more skills within the Linux Command line while completing `Capture the flag` challenges such as [PicoCTF](https://picoctf.com/) and [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/). You can view my logs over [here](https://teechan.me/logs/).
+
       ![Screenshot4.png](/portfolio/pico1.png)
     - The main goal for this week was to utilise these capture the flag challenges as a platform or resource to better understand Linux's Operating System.
 ***
@@ -114,14 +116,17 @@ Instead of thoroughly describing the development process for my technical skills
     - Started attempting another web-based wargame in [overthewire](www.overthewire.org) and documented the process [here](https://teechan.me/logs/natas-logs/)
     - Since our topic this week was web exploitation, we had to pick a topic regarding web exploitation and present with our new group members, which included Anthony, Tyrone and I. Our slides for the topic `Broken Access Control` can be viewed [here](https://www.canva.com/design/DADyvPVnau0/fZvUZg6nzkgsgIkhiaiheA/view?utm_content=DADyvPVnau0&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
     - Did most of my **technical content** research on this fascinating website called [Hacksplaining](https://www.hacksplaining.com/)
+
     ![Screenshot4.png](/portfolio/hacksplaining1.png)
     - **Techniques** I have learnt this week include: Web Application based exploit tools such as `Sql Injection`, utilising the `Inspect Element + Console` within a web browser and learning how `Broken Access Control` works.
 ***
 - Week 4:
     - This week, we were challenged to submit our very first `boot2root` challenge as a deliverable.
     - Get used to the `tryhackme` platform
-    - I managed to complete 2 simple to intermediate boxes, which were `Vulnversity` and `Basic Pentesting 1`. Vulnversity's writeup can be found [here](https://teechan.me/logs/tryhackme-vulnerversity/), and Basic Pentesting 1's writeup can be found [here](https://teechan.me/logs/basic-pentesting-1/)
-    - Tried to attempt another box for the fun of it, but only managed to get halfway through it. This box writeup can be found [here](https://teechan.me/logs/tryhackme-biohazard/)
+    - I managed to complete two simple/intermediate boxes, which were `Vulnversity` and `Basic Pentesting 1`.
+    - Vulnversity's writeup can be found [here](https://teechan.me/logs/tryhackme-vulnerversity/)
+    - Basic Pentesting 1's writeup can be found [here](https://teechan.me/logs/basic-pentesting-1/)
+    - Tried to attempt another `tryhackme` box called Biohazard with another student (Tyrone) for extra practice, but only managed to get halfway through it. Biohazard writeup can be found [here](https://teechan.me/logs/tryhackme-biohazard/)
     - Thus, **technical concepts** I have developed this week are: learning how `openvpn` works, learning how to properly use flags for an `Nmap` scan, learn how to enumerate directories using `Gobuster`, how to escalate your privilege as normal user using a `reverse shell` and learning about different base encoding formats for encryption and learning about extra encryption methods such as: using `Vignere` ciphers and utilising `ROT13`
 ***
 - Week 5 + 6:
@@ -144,12 +149,14 @@ During the first few weeks of the studio, we were required to make a group prese
 ***
 - Week 2:
     - Group presentation on `Nmap`
+
     ![Untitled.png](/images/teamsweek2.png)
     - Further in-depth artefacts and explanation on how I collaborated [here](https://teechan.me/2020/01/reflection-2/)
 ***
 - Week 3:
     - Group presentation on a web exploit topic
     - Our group picked `Broken Access Control`
+
     ![Untitled.png](/portfolio/bac.png)
     - Further discussion with Anthony (fellow students) as he is using the same Hugo theme as me. He suggested I should utilise `Favicons` to further customise my webpage and to make it look even better
     - Further in-depth artefacts and explanation on how I collaborated [here](https://teechan.me/2020/02/reflection-3/)
@@ -200,13 +207,13 @@ From the feedback received from the tutors:
 - To not be afraid of asking questions, as it will not only benefit you but the whole class as well
 - Encouraged that it is okay to not feel contempt about your work at times because I have seriously felt invaluable to a group contribution during the first few weeks, only because I was not keeping up with the content or just inexperienced in general. However, their feedback prompted me to extra work and research on the side, just so that I am able to keep up with the rest of the class.
 
-Overall, I found myself critically analysing my performance throughout the studio under a conclusion `tldr` section, and although I was aware that I had minimal experience with cyber security initially, along with my poor time management (funky way of saying `procrastination`), I put any self-doubts aside and powered through the submissions and even surprised myself with how much much work I have displayed and how much knowledge I have gained over the course of 6 weeks.
+Overall, I found myself critically analysing my performance throughout the studio under a conclusion `tldr` section, and although I was aware that I had minimal experience with cyber security initially, along with my poor time management (funky way of saying `procrastination`), I put any self-doubts aside and powered through the submissions and even surprised myself with how much work I have displayed and the amount of knowledge I have gained over the course of 6 weeks.
 ***
 ***
 #### Conclusion
 ***
 ***
-When I initially started out in this subject, I was really indecisive on whether or not I should take this subject. Additionally, I had no sense of direction or career goal in mind, I was only going in with some prior experience from Networking and Cyber Security subjects I took from at UTS. Consequently, while having no sense of direction of where I wanted to head, it provided me with motivation set up a few goals for myself within my learning contract, in order to determine whether Cyber Security was an industry I wanted to get into and to ultimately gain a heightened understanding of Information Security in general, so that I can help others.
+When I initially started out in this subject, I was really indecisive on whether or not I should take this subject. Additionally, I had no sense of direction or career goal in mind, I was only going in with some prior experience from Networking and Cyber Security subjects I took from at UTS. Consequently, while having no sense of direction of where I wanted to head, it motivated me to set up a few goals for myself within my learning contract, in order to determine whether Cyber Security was an industry I wanted to get into and to ultimately gain a heightened understanding of Information Security in general, so that I can help others.
 
 The main skillsets/goals I set myself were:
 - Develop an `aesthetic` looking portfolio where potential employers can view the type of work I have achieved for Cyber Security
@@ -221,7 +228,7 @@ Consequently, looking back to the learning contract and the goals I filled out i
 
 The learning progression throughout the studio was definitely difficult, as I had to conduct extra research into certain concepts that I had trouble keeping up with, but it allowed me to gather different problem statements regarding real industry issues surrounding the cyber security industry. Moreover, the steady yet rising difficulty of the security challenges put me at the edge of my seat, as there were new technical content to be learnt every week. Additionally, by reflecting back on the [documentation](https://teechan.me/posts/) on what I have learnt every week, I am able to compare with myself from earlier weeks and then be able to judge/evaluate my overall performance for this studio.
 
-Overall, it was been an extremely fun journey with my fellow students and the teaching team, where I have learnt new things, discovered the hidden potential within myself, communicated and collaborated with students I have never met before and gain a heightened understanding of the dire issues surrounding the cyber security industry today. Despite that my time here at summer studio has concluded does not mean my blog will not be updated every now and then. This blog can be used later on in the future to show potential employers what I have accomplished in this summer studio.
+Overall, it has been an extremely fun journey with my fellow students and the teaching team, where I have learnt new things, discovered the hidden potential within myself, communicated and collaborated with students I have never met before and gain a heightened understanding of the dire issues surrounding the cyber security industry today. Despite that my time here at summer studio has concluded does not mean my blog will not be updated every now and then. This blog can be used later on in the future to show potential employers what I have accomplished in this summer studio.
 
 Thank you guys for everything! :)
 ***
@@ -231,6 +238,6 @@ I have definitely learnt a lot from my summer studio and with this knowledge gai
 In the future, I intend to:
 - Meet the team at the next security conference (`Bsides Canberra 2020` in this case)
 - Still unsure whether to lean towards UX or Cyber Security as I am still quite an indecisive person in general
-- However, I now have a deeper insight into what the cyber security industry is like and the typical workload that is presented to you, based on my own input and suggestions from Info sec industry professionals that came to visit our studio
+- However, I now have a deeper insight into what the cyber security industry is like, based on my own input and suggestions from the cyber security industry professionals that came to visit our studio, and the typical workload that is presented
 - Try and apply for a security analyst internship roles
 - Help educate others on information security and let them be aware of how important it is to their everyday lives
