@@ -126,37 +126,59 @@ Instead of thoroughly describing the development process for my technical skills
 ***
 - Week 5 + 6:
     - Focused on the `Hackthebox` platform as the boxes get more interesting at a more intermediate level
-    - Based on the knowledge I gained from the previous boxes I had attempted, I attempted two `hackthebox` boxes, which had **similar technical challenges** to `Vulnversity`, and this really helped speed the enumerating process up as I knew which exploits worked and which did not work
+    - Based on the knowledge I gained from the previous boxes I had attempted, I attempted two `hackthebox` boxes, which had **similar technical challenges** to `Vulnversity`, and this really helped speed up the enumerating process up as I knew which exploits worked and which did not work
+    - Further learnt new technical skills such as `Netcat`, `Netstat`, `ssh2john` and `curl`
     - Managed to complete `Openadmin` and `Traverxec` respectively, which can be viewed [here](https://teechan.me/logs/), however due to `Hackthebox` rules, I am not allowed to post writeups publicly unless I protect them with a password and only show to stakeholders (my teaching team in this case).
     - I will be posting them publicly after the machine has been retired
+
+  Throughout the studio, I have realised that these tools are necessary in order to traverse through a system and obtain root, especially if you follow the general pen-testing methodology. Likewise, the exposure to these new technical tools have been crucial to my learning experience as they have improved my confidence in using these tools for future boxes, as I had very limited understanding of any tools prior to starting this summer studio.
 ***
 ***
 ##### SLO 4 - Demonstrate effective collaboration and communication skills
 ***
 ***
-
-I have learnt that in order to better understand a technical concept, learning the concept through other fellow students' and teaching team's demonstrations is not enough. However, if I was able to effectively demonstrate or explain a topic to other people with no knowledge of this technical concept, then I feel much more accomplished, as I will also have a better understanding of the topic while I teach others (`win win?`).
-
-Since I had to balance out between two subjects, which were this summer studio and my careers management for IT professionals class, it really showed me how jumping in between message mediums (MS Teams --> Facebook Messenger --> Then back to MS Teams again) and giving all tutors a `heads up` of what will happening throughout the studio...
+During the first few weeks of the studio, we were required to make a group presentation on different cyber security related topics. This prompted me to establish strong connections with my fellow peers in order to better understand them in order to meet a common goal. Strong communication and collaboration skills are highly valuable skills in the workplace and are essential for project succession. Here is what happened every week that effectively shows my constant collaboration and communication between fellow students and the teaching team:
+***
 - Week 1:
+    - Asked tutors during the mandatory 1 on 1 session regarding the overall layout/format and content of my static site, in return for some feedback that I can use to further improve upon
+***
 - Week 2:
+    - Group presentation on `Nmap`
+    ![Untitled.png](/images/teamsweek2.png)
+    - Further in-depth artefacts and explanation on how I collaborated [here](https://teechan.me/2020/01/reflection-2/)
+***
 - Week 3:
-- Week 4:
-- Week 5:
+    - Group presentation on a web exploit topic
+    - Our group picked `Broken Access Control`
+    ![Untitled.png](/images/teamsweek2.png)
+    - Further discussion with Anthony (fellow students) as he is using the same Hugo theme as me. He suggested I should utilise `Favicons` to further customise my webpage and to make it look even better
+    - Further in-depth artefacts and explanation on how I collaborated [here](https://teechan.me/2020/02/reflection-3/)
 
-- What I got out of this learning outcome:
-Talk about how effective communication skills are in order to collaborate well within a team, especially within the Info security or even just any IT workplace.
+***
+- Week 5 + 6:
+    - Prepare a group presentation for the final summer studio project demonstration on a `hackthebox` box called `Openadmin`
+    - Slides can be viewed [here](https://www.canva.com/design/DAD06vZ1_Gc/MKdqoUsrheucawdP7wEbsw/view?utm_content=DAD06vZ1_Gc&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
+    - We discussed how we were going allocated the sub-topics of our presentation to each member of the group and who will be recording the demonstrate
+    - Since we know most of the members of the class by now, it made it extremely easy to effectively communicate between one another, especially because we do not feel the need to refrain from asking simple questions or even ask for tips on their presentation style
+    - Further in-depth artefacts and explanation on how I collaborated [here](https://teechan.me/2020/02/reflection-5/), and [here](https://teechan.me/2020/03/reflection-6/)
+***
+As you could determine from the evidence I provided, Microsoft Teams, Facebook Messenger, Trello and Discord were the main source of communication between me and the teaching team and was also the main source for collaboration work between fellow peers to organise team presentations or just to seek help from others in general.  
+
+Furthermore, based on the meet-ups for team presentations and the standup `scrum` meetings our studio holds every week, it allows everyone to see where we all are individually, and based on that knowledge, we tend to help others in need based on their strengths and weaknesses. It satisfies me to see everyone had a common strength or weakness at some point during a stand-up meeting, but it was more so for everyone to practice their `on-the-spot` presentation skills and to effectively reflect on what they did for the week, so they can improve upon themselves.
+
+I have also learnt that in order to better understand a technical concept, learning the concept through other fellow students' and teaching team's demonstrations is not enough. However, if I was able to effectively demonstrate or explain a topic to other people with no knowledge of this technical concept, then I feel much more accomplished, as I will also have a better understanding of the topic while I teach others (`win win?`).
+
+Since I had to balance out between two subjects, which were this summer studio and my careers management for IT professionals class, it really showed me how jumping in between message mediums (MS Teams --> Facebook Messenger --> Then back to MS Teams again) and giving tutors a `heads up` of what will happening throughout the studio or the upcoming weeks allows both sides to stay updated and avoid any unnecessary conflict.
+
+Thus, from this subject learning outcome, I can immediately depict that employees require strong communication skills in order to effectively collaborate well within a team, especially within the Info security or even just any IT workplace. Furthermore, understanding your own emotions and how to appropriately judge situations is another contributing factor in effective communication, which ties perfectly well with the next subject learning outcome.
 ***
 ***
 ##### SLO 5 - Conduct critical self and peer review and performance evaluation
 ***
 ***
+From this subject learning outcome, I have recognised that it is extremely crucial to be honest with yourself and it is definitely okay to accept your own flaws, as long as you continuously work on it to improve upon yourself.  Moreover, it is also very important to understand your own emotions and in others as well in terms of how it will affect their performance. Having strong emotional intelligence not only allows you to understand and reflect on your overall progress, but to ultimately see how others are going and see if they are in need of assistance.
 
-Design layout was not so good... Decided to follow Jason's layout for reflections as it was easy to read and understand with his layout...
-
-This was a continuous cycle as...
-From the feedback received:
-- I have learnt a better method of allowing the teaching team to evaluate my performance and sprint submissions. This method was to thoroughly describe what I have learnt from the week and the teaching team can automatically assume whether or not you have met the learning outcomes for the week, rather than listing our every Subject Learning Outcome (SLO) and then tediously recounting and explaining the whole process
+Throughout the studio, making reflection logs, which can be viewed [here](https://teechan.me/posts/), allowed me to reflect back on the week as I read through it several weeks later. However, it was not an easy process as I was not used to documenting my weekly tasks (nor daily). Nevertheless, I powered through and stuck with the sprint submissions every week, and based on the positive feedback I have received, it has been a good source of motivation and it even has encouraged me to document every security challenge I attempt in the future. Thus, by documenting what my strengths and weaknesses are for the week and what I have or have not accomplished for the week, allowed me to 'keep track' of my `fresh` emotions and how I felt at the time. It is also critically important to look back and reflect upon the earlier weeks as you are able to compare yourself now with yourself from the earlier weeks to see whether you have improved and to evaluate your overall performance.
 
 Here are some screenshots of the feedback I have received from the teaching team and as you can see, they have significantly improved overtime
 - Week 1:
@@ -168,7 +190,11 @@ Here are some screenshots of the feedback I have received from the teaching team
 ![Screenshot4.png](/portfolio/feedback3.png)
 ![Screenshot4.png](/portfolio/feedback4.png)
 
-From the feedback I received...
+From the feedback received from the tutors:
+- Perhaps utilise another theme or design layout where I do not just explicitly state the learning outcomes, but rather adopt a style similar to Jason's blog posts, where it is very easy to understand what I have achieved throughout the week
+- I have learnt a better method of allowing the teaching team to evaluate my performance and sprint submissions. This method was to thoroughly describe what I have learnt from the week and the teaching team can automatically assume whether or not you have met the learning outcomes for the week, rather than listing our every Subject Learning Outcome (SLO) and then tediously recounting and explaining the whole process
+- To not be afraid of asking questions, as it will not only benefit you but the whole class as well
+- Encouraged that it is okay to not feel contempt about your work at times because I have seriously felt invaluable to a group contribution during the first few weeks, only because I was not keeping up with the content or just inexperienced in general. However, their feedback prompted me to extra work and research on the side, just so that I am able to keep up with the rest of the class.
 
 
 ***
@@ -176,7 +202,7 @@ From the feedback I received...
 #### Conclusion
 ***
 ***
-*** When I initially started out in this subject, I was really indecisive on whether or not I should take this subject. Additionally, I had no sense of direction or career goal in mind, I was only going in with some prior experience from Networking and Cyber Security subjects I took from at UTS. Consequently, while having no sense of direction of where I wanted to head, it provided me with motivation set up a few goals for myself within my learning contract, in order to determine whether Cyber Security was an industry I wanted to get into and to ultimately gain a heightened understanding of Information Security in general, so that I can help others.
+When I initially started out in this subject, I was really indecisive on whether or not I should take this subject. Additionally, I had no sense of direction or career goal in mind, I was only going in with some prior experience from Networking and Cyber Security subjects I took from at UTS. Consequently, while having no sense of direction of where I wanted to head, it provided me with motivation set up a few goals for myself within my learning contract, in order to determine whether Cyber Security was an industry I wanted to get into and to ultimately gain a heightened understanding of Information Security in general, so that I can help others.
 
 The main skillsets/goals I set myself were:
 - Develop an `aesthetic` looking portfolio where potential employers can view the type of work I have achieved for Cyber Security
@@ -188,6 +214,10 @@ The main skillsets/goals I set myself were:
 ***
 ***
 #### Future Intentions
-I have definitely learnt a lot from my summer studio and with this knowledge gained...
-- Still unsure whether to lean towards UX or Cyber Security as I am still quite an indecisive person in general.
-- However, have a deeper insight into what the cyber security industry is like and the typical workload that is presented to you, based on my own input and suggestions from Info sec industry professionals that came to visit our studio.  
+I have definitely learnt a lot from my summer studio and with this knowledge gained, I hope to teach others regarding what I have learnt.
+In the future, I intend to:
+- Meet the team at the next conference (`Bsides Canberra 2020` in this case)
+- Still unsure whether to lean towards UX or Cyber Security as I am still quite an indecisive person in general
+- However, I now have a deeper insight into what the cyber security industry is like and the typical workload that is presented to you, based on my own input and suggestions from Info sec industry professionals that came to visit our studio
+- Try and apply for a security analyst internship roles
+- Help educate others on information security and let them be aware of how important it is to their everyday lives
