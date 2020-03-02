@@ -239,5 +239,5 @@ In the future, I intend to:
 - Meet the team at the next security conference (`Bsides Canberra 2020` in this case)
 - Still unsure whether to lean towards UX or Cyber Security as I am still quite an indecisive person in general
 - However, I now have a deeper insight into what the cyber security industry is like, based on my own input and suggestions from the cyber security industry professionals that came to visit our studio, and the typical workload that is presented
-- Try and apply for a security analyst internship roles
-- Help educate others on information security and let them be aware of how important it is to their everyday lives
+- Try and apply for security analyst internship roles
+- Help educate others on information security and let them be aware of how important and impactful it is to their everyday lives
