@@ -118,11 +118,21 @@ Furthermore, through my 1 on 1 session with the teaching team, I made it clear t
 ###### Friday + Weekend (21/02 - 23/02):
 To keep it short and simple, for the rest of my weekend (+ Friday), I decided to completely focus on completing the `Hackthebox` deliverable, start a write-up for it as I am doing the task and polishing up the reflection whenever possible. Once again, although me and Tyrone (fellow student) did not completely finish our box `Biohazard` for this week due to the fact that our `Hackthebox` deliverable was more a priority, we still managed to work well together again to work on our `openadmin` box. Nevertheless, with the help from the teaching team and fellow students, I still communicated with them through MS Teams, Messenger and Discord to accomplish some tasks collaboratively.
 
+Here are screenshots between Jason and I:
 ![Screenshot4.png](/images/jasoncold.png)
+***
 ![Screenshot4.png](/images/jasonhot.png)
+***
 ![Screenshot4.png](/images/larry1.png)
+***
+And here are some screenshots between fellow peers:
+![Screenshot4.png](/images/ref5.png)
+***
+![Screenshot4.png](/images/ref52.png)
+***
 
-Furthermore, I manage to retrieve the users.txt flag and gain root access which is definitely a huge accomplishment for me but I completely forgot about the incomplete box that I mentioned I was ***"going to"*** complete by this sprint. Moreover, I also spent the rest of the weekend finishing up the write-ups, polishing reflection logs and spent some time preparing some sub-topics to talk about for our final studio presentation. I did research based on the relevance of our chosen box `Vulnversity` to the Information security industry, the sub-topics that we need to allocate to each team member and who will be in charge of the exploit demonstration.
+
+Furthermore, I manage to retrieve the users.txt flag and gain root access (refer to screenshot below) which is definitely a huge accomplishment for me but I completely forgot about the incomplete box that I mentioned I was ***"going to"*** complete by this sprint. Moreover, I also spent the rest of the weekend finishing up the write-ups, polishing reflection logs and spent some time preparing some sub-topics to talk about for our final studio presentation. I did research based on the relevance of our chosen box `Vulnversity` to the Information security industry, the sub-topics that we need to allocate to each team member and who will be in charge of the exploit demonstration.
 
 ![Screenshot4.png](/images/hacktheboxprofile.png)
 
