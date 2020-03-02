@@ -168,7 +168,7 @@ Furthermore, based on the meet-ups for team presentations and the standup `scrum
 
 I have also learnt that in order to better understand a technical concept, learning the concept through other fellow students' and teaching team's demonstrations is not enough. However, if I was able to effectively demonstrate or explain a topic to other people with no knowledge of this technical concept, then I feel much more accomplished, as I will also have a better understanding of the topic while I teach others (`win win?`).
 
-Since I had to balance out between two subjects, which were this summer studio and my careers management for IT professionals class, it really showed me how jumping in between message mediums (MS Teams --> Facebook Messenger --> Then back to MS Teams again) and giving tutors a `heads up` of what will happening throughout the studio or the upcoming weeks allows both sides to stay updated and avoid any unnecessary conflict.
+Since I had to balance out between two subjects, which were this summer studio and my careers management for IT professionals class, it really showed me how jumping in between message mediums (MS Teams --> Facebook Messenger --> Then back to MS Teams again) and giving tutors a `heads up` of what will happening throughout the upcoming weeks allows both sides to stay updated and avoid any unnecessary conflict.
 
 Thus, from this subject learning outcome, I can immediately depict that employees require strong communication skills in order to effectively collaborate well within a team, especially within the Info security or even just any IT workplace. Furthermore, understanding your own emotions and how to appropriately judge situations is another contributing factor in effective communication, which ties perfectly well with the next subject learning outcome.
 ***
@@ -219,13 +219,17 @@ Consequently, looking back to the learning contract and the goals I filled out i
 ![intross2.png](/images/intross2.png)
 ***
 
+The learning progression throughout the studio was definitely difficult, as I had to conduct extra research into certain concepts that I had trouble keeping up with, but it allowed me to gather different problem statements regarding real industry issues surrounding the cyber security industry. Moreover, the steady yet rising difficulty of the security challenges put me at the edge of my seat, as there were new technical content to be learnt every week. Additionally, by reflecting back on the [documentation](https://teechan.me/posts/) on what I have learnt every week, I am able to compare with myself from earlier weeks and then be able to judge/evaluate my overall performance for this studio.
 
+Overall, it was been an extremely fun journey with my fellow students and the teaching team, where I have learnt new things, discovered the hidden potential within myself, communicated and collaborated with students I have never met before and gain a heightened understanding of the dire issues surrounding the cyber security industry today. Despite that my time here at summer studio has concluded does not mean my blog will not be updated every now and then. This blog can be used later on in the future to show potential employers what I have accomplished in this summer studio.
+
+Thank you guys for everything! :)
 ***
 ***
 #### Future Intentions
 I have definitely learnt a lot from my summer studio and with this knowledge gained, I hope to teach others regarding what I have learnt.
 In the future, I intend to:
-- Meet the team at the next conference (`Bsides Canberra 2020` in this case)
+- Meet the team at the next security conference (`Bsides Canberra 2020` in this case)
 - Still unsure whether to lean towards UX or Cyber Security as I am still quite an indecisive person in general
 - However, I now have a deeper insight into what the cyber security industry is like and the typical workload that is presented to you, based on my own input and suggestions from Info sec industry professionals that came to visit our studio
 - Try and apply for a security analyst internship roles
