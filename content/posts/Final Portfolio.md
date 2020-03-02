@@ -1,6 +1,6 @@
 ---
 title: "FINAL PORTFOLIO"
-date: 2020-03-01T02:01:58+05:30
+date: 2020-03-02T03:05:58+05:30
 ---
 
 ***
@@ -94,16 +94,41 @@ Thus, by applying this simple yet effective methodology, I was able to apply cri
 ***
 ***
 
-
+Instead of thoroughly describing the development process for my technical skillset throughout the studio, which I have already [documented](https://teechan.me/posts/) every week, I have decided that it will much easier if I list out the main technical skills I have developed every week.
+***
 - Week 1:
-  - Design layout was not so good... Decided to follow Jason's layout for reflections as it was easy to read and understand with his layout...
+    - First week was not really cybersecurity focused, as we were told to understand the basics of how to setup a static site:
+    ![Screenshot4.png](/portfolio/week1.png)
+    - Understanding the basics of `Git` and how Github Repositories work (learn how to gain remote access/push + pull)
+    - Struggled at first, but with the help of fellow students and tutors, I managed to pull through
+***
 - Week 2:
+    - Learnt about **technical** scanning tools NMAP (Network Mapper), which is an intensive port scanning tool
+    - Produced a presentation about NMAP with Hayden and Nik using Canva, which can be viewed [here](https://www.canva.com/design/DADyQuNdQao/obR8xGLrPcD9WVdvrNicbg/view?utm_content=DADyQuNdQao&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton).
+    - Learnt more skills within the Linux Command line while completing `Capture the flag` challenges such as [PicoCTF](https://picoctf.com/) and [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/). You can view my logs over [here](https://teechan.me/logs/).
+      ![Screenshot4.png](/portfolio/pico1.png)
+    - The main goal for this week was to utilise these capture the flag challenges as a platform or resource to better understand Linux's Operating System.
+***
 - Week 3:
+    - Attempted Bandit again on [overthewire](www.overthewire.org), which allowed me to brush up on Linux skills again
+    - Started attempting another web-based wargame in [overthewire](www.overthewire.org) and documented the process [here](https://teechan.me/logs/natas-logs/)
+    - Since our topic this week was web exploitation, we had to pick a topic regarding web exploitation and present with our new group members, which included Anthony, Tyrone and I. Our slides for the topic `Broken Access Control` can be viewed [here](https://www.canva.com/design/DADyvPVnau0/fZvUZg6nzkgsgIkhiaiheA/view?utm_content=DADyvPVnau0&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
+    - Did most of my **technical content** research on this fascinating website called [Hacksplaining](https://www.hacksplaining.com/)
+    ![Screenshot4.png](/portfolio/hacksplaining1.png)
+    - **Techniques** I have learnt this week include: Web Application based exploit tools such as `Sql Injection`, utilising the `Inspect Element + Console` within a web browser and learning how `Broken Access Control` works.
+***
 - Week 4:
-- Week 5:
-
-- What I got out of this learning outcome:
-
+    - This week, we were challenged to submit our very first `boot2root` challenge as a deliverable.
+    - Get used to the `tryhackme` platform
+    - I managed to complete 2 simple to intermediate boxes, which were `Vulnversity` and `Basic Pentesting 1`. Vulnversity's writeup can be found [here](https://teechan.me/logs/tryhackme-vulnerversity/), and Basic Pentesting 1's writeup can be found [here](https://teechan.me/logs/basic-pentesting-1/)
+    - Tried to attempt another box for the fun of it, but only managed to get halfway through it. This box writeup can be found [here](https://teechan.me/logs/tryhackme-biohazard/)
+    - Thus, **technical concepts** I have developed this week are: learning how `openvpn` works, learning how to properly use flags for an `Nmap` scan, learn how to enumerate directories using `Gobuster`, how to escalate your privilege as normal user using a `reverse shell` and learning about different base encoding formats for encryption and learning about extra encryption methods such as: using `Vignere` ciphers and utilising `ROT13`
+***
+- Week 5 + 6:
+    - Focused on the `Hackthebox` platform as the boxes get more interesting at a more intermediate level
+    - Based on the knowledge I gained from the previous boxes I had attempted, I attempted two `hackthebox` boxes, which had **similar technical challenges** to `Vulnversity`, and this really helped speed the enumerating process up as I knew which exploits worked and which did not work
+    - Managed to complete `Openadmin` and `Traverxec` respectively, which can be viewed [here](https://teechan.me/logs/), however due to `Hackthebox` rules, I am not allowed to post writeups publicly unless I protect them with a password and only show to stakeholders (my teaching team in this case).
+    - I will be posting them publicly after the machine has been retired
 ***
 ***
 ##### SLO 4 - Demonstrate effective collaboration and communication skills
@@ -112,6 +137,7 @@ Thus, by applying this simple yet effective methodology, I was able to apply cri
 
 I have learnt that in order to better understand a technical concept, learning the concept through other fellow students' and teaching team's demonstrations is not enough. However, if I was able to effectively demonstrate or explain a topic to other people with no knowledge of this technical concept, then I feel much more accomplished, as I will also have a better understanding of the topic while I teach others (`win win?`).
 
+Since I had to balance out between two subjects, which were this summer studio and my careers management for IT professionals class, it really showed me how jumping in between message mediums (MS Teams --> Facebook Messenger --> Then back to MS Teams again) and giving all tutors a `heads up` of what will happening throughout the studio...
 - Week 1:
 - Week 2:
 - Week 3:
@@ -125,6 +151,9 @@ Talk about how effective communication skills are in order to collaborate well w
 ##### SLO 5 - Conduct critical self and peer review and performance evaluation
 ***
 ***
+
+Design layout was not so good... Decided to follow Jason's layout for reflections as it was easy to read and understand with his layout...
+
 This was a continuous cycle as...
 From the feedback received:
 - I have learnt a better method of allowing the teaching team to evaluate my performance and sprint submissions. This method was to thoroughly describe what I have learnt from the week and the teaching team can automatically assume whether or not you have met the learning outcomes for the week, rather than listing our every Subject Learning Outcome (SLO) and then tediously recounting and explaining the whole process
