@@ -150,7 +150,7 @@ During the first few weeks of the studio, we were required to make a group prese
 - Week 3:
     - Group presentation on a web exploit topic
     - Our group picked `Broken Access Control`
-    ![Untitled.png](/images/teamsweek2.png)
+    ![Untitled.png](/portfolio/bac.png)
     - Further discussion with Anthony (fellow students) as he is using the same Hugo theme as me. He suggested I should utilise `Favicons` to further customise my webpage and to make it look even better
     - Further in-depth artefacts and explanation on how I collaborated [here](https://teechan.me/2020/02/reflection-3/)
 
@@ -178,17 +178,21 @@ Thus, from this subject learning outcome, I can immediately depict that employee
 ***
 From this subject learning outcome, I have recognised that it is extremely crucial to be honest with yourself and it is definitely okay to accept your own flaws, as long as you continuously work on it to improve upon yourself.  Moreover, it is also very important to understand your own emotions and in others as well in terms of how it will affect their performance. Having strong emotional intelligence not only allows you to understand and reflect on your overall progress, but to ultimately see how others are going and see if they are in need of assistance.
 
-Throughout the studio, making reflection logs, which can be viewed [here](https://teechan.me/posts/), allowed me to reflect back on the week as I read through it several weeks later. However, it was not an easy process as I was not used to documenting my weekly tasks (nor daily). Nevertheless, I powered through and stuck with the sprint submissions every week, and based on the positive feedback I have received, it has been a good source of motivation and it even has encouraged me to document every security challenge I attempt in the future. Thus, by documenting what my strengths and weaknesses are for the week and what I have or have not accomplished for the week, allowed me to 'keep track' of my `fresh` emotions and how I felt at the time. It is also critically important to look back and reflect upon the earlier weeks as you are able to compare yourself now with yourself from the earlier weeks to see whether you have improved and to evaluate your overall performance.
+Throughout the studio, making reflection logs, which can be viewed [here](https://teechan.me/posts/), allowed me to reflect back on the week as I read through it several weeks later. However, it was not an easy process as I was not used to documenting my weekly tasks (nor daily). Nevertheless, I powered through and stuck with the sprint submissions every week, and based on the positive feedback I have received, it has been a good source of motivation and it even has encouraged me to document every security challenge I attempt in the future.
+
+Thus, by documenting what my strengths and weaknesses are and what I have or have not accomplished every week, allowed me to 'keep track' of my `fresh` emotions and how I felt at the time. It is also critically important to look back and reflect upon the earlier weeks, as you are able to compare yourself now with yourself from the earlier weeks to see whether you have improved and to evaluate your overall performance.
 
 Here are some screenshots of the feedback I have received from the teaching team and as you can see, they have significantly improved overtime
 - Week 1:
 ![Screenshot4.png](/portfolio/feedback1.png)
+***
 - Week 2:
 ![Screenshot4.png](/portfolio/feedback2.png)
-- Week 3:
-- Week 4:
+***
+- Week 3 + 4:
 ![Screenshot4.png](/portfolio/feedback3.png)
 ![Screenshot4.png](/portfolio/feedback4.png)
+***
 
 From the feedback received from the tutors:
 - Perhaps utilise another theme or design layout where I do not just explicitly state the learning outcomes, but rather adopt a style similar to Jason's blog posts, where it is very easy to understand what I have achieved throughout the week
@@ -196,7 +200,7 @@ From the feedback received from the tutors:
 - To not be afraid of asking questions, as it will not only benefit you but the whole class as well
 - Encouraged that it is okay to not feel contempt about your work at times because I have seriously felt invaluable to a group contribution during the first few weeks, only because I was not keeping up with the content or just inexperienced in general. However, their feedback prompted me to extra work and research on the side, just so that I am able to keep up with the rest of the class.
 
-
+Overall, I found myself critically analysing my performance throughout the studio under a conclusion `tldr` section, and although I was aware that I had minimal experience with cyber security initially, along with my poor time management (funky way of saying `procrastination`), I put any self-doubts aside and powered through the submissions and even surprised myself with how much much work I have displayed and how much knowledge I have gained over the course of 6 weeks.
 ***
 ***
 #### Conclusion
@@ -209,6 +213,11 @@ The main skillsets/goals I set myself were:
 - Further practice my presentation skills, especially in translating technical content to everyday language, so that non-technical users can understand
 - Gain enough experience to see whether I like the Cyber Security Industry or not (`Spoiler: I do!`)
 - Actually decide what kind of grad role/internship I want to pursue!
+
+Consequently, looking back to the learning contract and the goals I filled out in the first week, I strongly believe that I have met every single requirement on my learning contract:
+![intross1.png](/images/intross1.png)
+![intross2.png](/images/intross2.png)
+***
 
 
 ***
